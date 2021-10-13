@@ -2,10 +2,6 @@ Programm 2
 
 Start
 
-Begin
-
-end
-
 End.
 
 
